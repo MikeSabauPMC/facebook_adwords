@@ -700,8 +700,4 @@
     title: Date
     type: date_filter
     default_value: 30 days
-    model:
-    explore:
-    field:
-    listens_to_filters: []
     allow_multiple_values: true

@@ -521,24 +521,21 @@
     height: 7
   - name: text_2
     type: text
-    body_text: <img src="https://cdn.filepicker.io/api/file/N0wYsVjjQIWoNFPrLyUJ"
-      width="85%" height="85%"/>
+    body_text:
     row: 0
     col: 4
     width: 3
     height: 2
   - name: text_1
     type: text
-    body_text: <img src="http://www.tentacleinbound.com/wp-content/uploads/2016/06/google-adwords-logo.png"
-      width="80%" height="80%"/>
+    body_text:
     row: 0
     col: 7
     width: 3
     height: 2
   - name: text_3
     type: text
-    body_text: <img src="https://www.planhat.com/img/integrations/segment-logo--md5--76d8aef7a33cd5dbc8c51ed33125ec66.png"
-      width="100%" height="100%"/>
+    body_text:
     row: 0
     col: 0
     width: 4
